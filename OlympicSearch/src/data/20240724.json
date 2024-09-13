@@ -1,0 +1,165 @@
+{
+    "total": 20,
+    "data": [
+        {
+            "startdate": "15:00",
+            "itemcodename": "足球",
+            "homename": "阿根廷",
+            "awayname": "摩洛哥",
+            "venuename": "热奥弗鲁瓦基查尔体育场",
+            "title": "男子B组"
+        },
+        {
+            "startdate": "15:00",
+            "itemcodename": "足球",
+            "homename": "乌兹别克斯坦",
+            "awayname": "西班牙",
+            "venuename": "王子公园",
+            "title": "男子C组"
+        },
+        {
+            "startdate": "15:30",
+            "itemcodename": "七人制橄榄球",
+            "homename": "澳大利亚",
+            "awayname": "萨摩亚",
+            "venuename": "法兰西体育场",
+            "title": "男子分组循环赛B组"
+        },
+        {
+            "startdate": "16:00",
+            "itemcodename": "七人制橄榄球",
+            "homename": "阿根廷",
+            "awayname": "肯尼亚",
+            "venuename": "法兰西体育场",
+            "title": "男子分组循环赛B组"
+        },
+        {
+            "startdate": "16:30",
+            "itemcodename": "七人制橄榄球",
+            "homename": "法国",
+            "awayname": "美国",
+            "venuename": "法兰西体育场",
+            "title": "男子分组循环赛C组"
+        },
+        {
+            "startdate": "17:00",
+            "itemcodename": "七人制橄榄球",
+            "homename": "斐济",
+            "awayname": "乌拉圭",
+            "venuename": "法兰西体育场",
+            "title": "男子分组循环赛C组"
+        },
+        {
+            "startdate": "17:00",
+            "itemcodename": "足球",
+            "homename": "几内亚",
+            "awayname": "新西兰",
+            "venuename": "尼斯体育场",
+            "title": "男子A组"
+        },
+        {
+            "startdate": "17:00",
+            "itemcodename": "足球",
+            "homename": "埃及",
+            "awayname": "多米尼加",
+            "venuename": "博茹瓦尔体育场",
+            "title": "男子C组"
+        },
+        {
+            "startdate": "17:30",
+            "itemcodename": "七人制橄榄球",
+            "homename": "爱尔兰",
+            "awayname": "南非",
+            "venuename": "法兰西体育场",
+            "title": "男子分组循环赛A组"
+        },
+        {
+            "startdate": "18:00",
+            "itemcodename": "七人制橄榄球",
+            "homename": "新西兰",
+            "awayname": "日本",
+            "venuename": "法兰西体育场",
+            "title": "男子分组循环赛A组"
+        },
+        {
+            "startdate": "19:00",
+            "itemcodename": "七人制橄榄球",
+            "homename": "澳大利亚",
+            "awayname": "肯尼亚",
+            "venuename": "法兰西体育场",
+            "title": "男子分组循环赛B组"
+        },
+        {
+            "startdate": "19:00",
+            "itemcodename": "足球",
+            "homename": "伊拉克",
+            "awayname": "乌克兰",
+            "venuename": "里昂体育场",
+            "title": "男子B组"
+        },
+        {
+            "startdate": "19:00",
+            "itemcodename": "足球",
+            "homename": "日本",
+            "awayname": "巴拉圭",
+            "venuename": "波尔多体育场",
+            "title": "男子D组"
+        },
+        {
+            "startdate": "19:30",
+            "itemcodename": "七人制橄榄球",
+            "homename": "阿根廷",
+            "awayname": "萨摩亚",
+            "venuename": "法兰西体育场",
+            "title": "男子分组循环赛B组"
+        },
+        {
+            "startdate": "20:00",
+            "itemcodename": "七人制橄榄球",
+            "homename": "法国",
+            "awayname": "乌拉圭",
+            "venuename": "法兰西体育场",
+            "title": "男子分组循环赛C组"
+        },
+        {
+            "startdate": "20:30",
+            "itemcodename": "七人制橄榄球",
+            "homename": "斐济",
+            "awayname": "美国",
+            "venuename": "法兰西体育场",
+            "title": "男子分组循环赛C组"
+        },
+        {
+            "startdate": "21:00",
+            "itemcodename": "七人制橄榄球",
+            "homename": "爱尔兰",
+            "awayname": "日本",
+            "venuename": "法兰西体育场",
+            "title": "男子分组循环赛A组"
+        },
+        {
+            "startdate": "21:00",
+            "itemcodename": "足球",
+            "homename": "法国",
+            "awayname": "美国",
+            "venuename": "马赛体育场",
+            "title": "男子A组"
+        },
+        {
+            "startdate": "21:00",
+            "itemcodename": "足球",
+            "homename": "马里",
+            "awayname": "以色列",
+            "venuename": "王子公园",
+            "title": "男子D组"
+        },
+        {
+            "startdate": "21:30",
+            "itemcodename": "七人制橄榄球",
+            "homename": "新西兰",
+            "awayname": "南非",
+            "venuename": "法兰西体育场",
+            "title": "男子分组循环赛A组"
+        }
+    ]
+}

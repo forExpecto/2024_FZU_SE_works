@@ -1,0 +1,237 @@
+{
+    "total": 29,
+    "data": [
+        {
+            "startdate": "09:00",
+            "itemcodename": "手球",
+            "homename": "斯洛文尼亚",
+            "awayname": "丹麦",
+            "venuename": "南巴黎竞技场",
+            "title": "女子预赛A组"
+        },
+        {
+            "startdate": "09:30",
+            "itemcodename": "射箭",
+            "homename": "",
+            "awayname": "",
+            "venuename": "荣军院",
+            "title": "女子个人排名赛"
+        },
+        {
+            "startdate": "09:30",
+            "itemcodename": "射箭",
+            "homename": "",
+            "awayname": "",
+            "venuename": "荣军院",
+            "title": "女子团体排名赛"
+        },
+        {
+            "startdate": "11:00",
+            "itemcodename": "手球",
+            "homename": "荷兰",
+            "awayname": "安哥拉",
+            "venuename": "南巴黎竞技场",
+            "title": "女子预赛B组"
+        },
+        {
+            "startdate": "14:00",
+            "itemcodename": "手球",
+            "homename": "西班牙",
+            "awayname": "巴西",
+            "venuename": "南巴黎竞技场",
+            "title": "女子预赛B组"
+        },
+        {
+            "startdate": "14:00",
+            "itemcodename": "七人制橄榄球",
+            "homename": "萨摩亚",
+            "awayname": "肯尼亚",
+            "venuename": "法兰西体育场",
+            "title": "男子分组循环赛B组"
+        },
+        {
+            "startdate": "14:15",
+            "itemcodename": "射箭",
+            "homename": "",
+            "awayname": "",
+            "venuename": "荣军院",
+            "title": "男子个人排名赛"
+        },
+        {
+            "startdate": "14:15",
+            "itemcodename": "射箭",
+            "homename": "",
+            "awayname": "",
+            "venuename": "荣军院",
+            "title": "男子团体排名赛"
+        },
+        {
+            "startdate": "14:15",
+            "itemcodename": "射箭",
+            "homename": "",
+            "awayname": "",
+            "venuename": "荣军院",
+            "title": "混合团体排名赛"
+        },
+        {
+            "startdate": "14:30",
+            "itemcodename": "七人制橄榄球",
+            "homename": "阿根廷",
+            "awayname": "澳大利亚",
+            "venuename": "法兰西体育场",
+            "title": "男子分组循环赛B组"
+        },
+        {
+            "startdate": "15:00",
+            "itemcodename": "七人制橄榄球",
+            "homename": "美国",
+            "awayname": "乌拉圭",
+            "venuename": "法兰西体育场",
+            "title": "男子分组循环赛C组"
+        },
+        {
+            "startdate": "15:30",
+            "itemcodename": "七人制橄榄球",
+            "homename": "斐济",
+            "awayname": "法国",
+            "venuename": "法兰西体育场",
+            "title": "男子分组循环赛C组"
+        },
+        {
+            "startdate": "16:00",
+            "itemcodename": "手球",
+            "homename": "德国",
+            "awayname": "韩国",
+            "venuename": "南巴黎竞技场",
+            "title": "女子预赛A组"
+        },
+        {
+            "startdate": "16:00",
+            "itemcodename": "七人制橄榄球",
+            "homename": "南非",
+            "awayname": "日本",
+            "venuename": "法兰西体育场",
+            "title": "男子分组循环赛A组"
+        },
+        {
+            "startdate": "16:30",
+            "itemcodename": "七人制橄榄球",
+            "homename": "新西兰",
+            "awayname": "爱尔兰",
+            "venuename": "法兰西体育场",
+            "title": "男子分组循环赛A组"
+        },
+        {
+            "startdate": "17:00",
+            "itemcodename": "足球",
+            "homename": "加拿大",
+            "awayname": "新西兰",
+            "venuename": "热奥弗鲁瓦基查尔体育场",
+            "title": "女子A组"
+        },
+        {
+            "startdate": "17:00",
+            "itemcodename": "足球",
+            "homename": "西班牙",
+            "awayname": "日本",
+            "venuename": "博茹瓦尔体育场",
+            "title": "女子C组"
+        },
+        {
+            "startdate": "19:00",
+            "itemcodename": "手球",
+            "homename": "匈牙利",
+            "awayname": "法国",
+            "venuename": "南巴黎竞技场",
+            "title": "女子预赛B组"
+        },
+        {
+            "startdate": "19:00",
+            "itemcodename": "足球",
+            "homename": "德国",
+            "awayname": "澳大利亚",
+            "venuename": "马赛体育场",
+            "title": "女子B组"
+        },
+        {
+            "startdate": "19:00",
+            "itemcodename": "足球",
+            "homename": "尼日利亚",
+            "awayname": "巴西",
+            "venuename": "波尔多体育场",
+            "title": "女子C组"
+        },
+        {
+            "startdate": "20:00",
+            "itemcodename": "七人制橄榄球",
+            "homename": "萨摩亚",
+            "awayname": "日本",
+            "venuename": "法兰西体育场",
+            "title": "男子9-12名排名赛"
+        },
+        {
+            "startdate": "20:30",
+            "itemcodename": "七人制橄榄球",
+            "homename": "乌拉圭",
+            "awayname": "肯尼亚",
+            "venuename": "法兰西体育场",
+            "title": "男子9-12名排名赛"
+        },
+        {
+            "startdate": "21:00",
+            "itemcodename": "手球",
+            "homename": "挪威",
+            "awayname": "瑞典",
+            "venuename": "南巴黎竞技场",
+            "title": "女子预赛A组"
+        },
+        {
+            "startdate": "21:00",
+            "itemcodename": "七人制橄榄球",
+            "homename": "新西兰",
+            "awayname": "南非",
+            "venuename": "法兰西体育场",
+            "title": "男子1/4决赛"
+        },
+        {
+            "startdate": "21:00",
+            "itemcodename": "足球",
+            "homename": "法国",
+            "awayname": "哥伦比亚",
+            "venuename": "里昂体育场",
+            "title": "女子A组"
+        },
+        {
+            "startdate": "21:00",
+            "itemcodename": "足球",
+            "homename": "美国",
+            "awayname": "赞比亚",
+            "venuename": "尼斯体育场",
+            "title": "女子B组"
+        },
+        {
+            "startdate": "21:30",
+            "itemcodename": "七人制橄榄球",
+            "homename": "阿根廷",
+            "awayname": "法国",
+            "venuename": "法兰西体育场",
+            "title": "男子1/4决赛"
+        },
+        {
+            "startdate": "22:00",
+            "itemcodename": "七人制橄榄球",
+            "homename": "斐济",
+            "awayname": "爱尔兰",
+            "venuename": "法兰西体育场",
+            "title": "男子1/4决赛"
+        },
+        {
+            "startdate": "22:30",
+            "itemcodename": "七人制橄榄球",
+            "homename": "澳大利亚",
+            "awayname": "美国",
+            "venuename": "法兰西体育场",
+            "title": "男子1/4决赛"
+        }
+    ]
+}
